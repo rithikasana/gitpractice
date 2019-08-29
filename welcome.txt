@@ -1,3 +1,9 @@
+  <<<<<<< HEAD
 git practice file.
 C
 
+=======
+git practice file. 
+A
+B
+>>>>>>> dev
